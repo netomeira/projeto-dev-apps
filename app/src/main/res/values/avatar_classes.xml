@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="avatar_classes">
+        <item>@string/avatar_class_warrior</item>
+        <item>@string/avatar_class_knight</item>
+        <item>@string/avatar_class_inventor</item>
+        <item>@string/avatar_class_defender</item>
+        <item>@string/avatar_class_barbarian</item>
+        <item>@string/avatar_class_ranger</item>
+    </string-array>
+</resources>

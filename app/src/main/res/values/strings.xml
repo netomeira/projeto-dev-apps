@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ProjetoPOS</string>
+    <string name="avatar_save">Save Character</string>
+    <string name="avatar_name">Character Name</string>
+    <string name="avatar_level">Level: %1$s</string>
+    <string name="avatar_level_up">Level Up</string>
+    <string name="avatar_name_hint">Character Name</string>
+    <string name="avatar_removed">Character: %1$s deleted</string>
+    <string name="avatar_class_card_name">Class Name</string>
+    <string name="avatar_class_card">Class:</string>
+    <string name="avatar_level_card">Level:</string>
+    <string name="avatar_empty">Character name is required</string>
+    <string name="avatar_class_warrior">Warrior</string>
+    <string name="avatar_class_knight">Knight</string>
+    <string name="avatar_class_inventor">Inventor</string>
+    <string name="avatar_class_defender">Defender</string>
+    <string name="avatar_class_barbarian">Barbarian</string>
+    <string name="avatar_class_ranger">Ranger</string>
+</resources>

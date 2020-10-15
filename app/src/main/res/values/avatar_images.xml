@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="avatar_images">
+        <item>@drawable/chrono</item>
+        <item>@drawable/frog</item>
+        <item>@drawable/lucca</item>
+        <item>@drawable/robo</item>
+        <item>@drawable/ayla</item>
+        <item>@drawable/marle</item>
+    </array>
+</resources>
